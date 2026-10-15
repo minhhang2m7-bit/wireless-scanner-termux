@@ -1,0 +1,2 @@
+# Python dependencies for the upgraded Termux network toolkit
+rich>=13.7.0
